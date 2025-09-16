@@ -1,0 +1,2 @@
+Este é um arquivo de erro de teste.
+Pode conter mensagens ou instruções fictícias.
